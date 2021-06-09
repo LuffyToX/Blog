@@ -177,18 +177,6 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 
 
 
-### 本机安装 SSR 客户端
-
-
-
-<img src='https://img-blog.csdnimg.cn/20210603214108774.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNjY0Nzc3,size_16,color_FFFFFF,t_70#pic_center' align='Left' style='width: 500px; height: 550px'/>
-
-***
-
-
-
-
-
 ### 检查 IP 是否被墙
 
 
@@ -200,4 +188,16 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 + 国内 ICMP、TCP 不通  ==>  被墙  ==>  更换 IP
 + 国内和国外都不通  ==>  网络崩溃  ==>  重装（VPS）系统
 + 如果发现 IP 全通，但是网络没有通，基本就是端口被封
+
+***
+
+
+
+
+
+### 本机安装 SSR 客户端
+
+
+
+<img src='https://img-blog.csdnimg.cn/20210603214108774.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNjY0Nzc3,size_16,color_FFFFFF,t_70#pic_center' align='Left' style='width: 500px; height: 550px'/>
 
